@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Demo Site (python)</title><link>http://nikola.ralsina.com.ar</link><description>This is a demo site for Nikola.</description><lastBuildDate>Tue, 29 Jan 2013 07:45:52 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>http://nikola.ralsina.com.ar/posts/welcome-to-nikola.html</link><description>&lt;div class="figure"&gt;
+<rss version="2.0"><channel><title>Demo Site (python)</title><link>http://nikola.ralsina.com.ar</link><description>This is a demo site for Nikola.</description><lastBuildDate>Wed, 30 Jan 2013 10:59:09 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>http://nikola.ralsina.com.ar/posts/welcome-to-nikola.html</link><description>&lt;div class="figure"&gt;
 &lt;a class="reference external image-reference" href="http://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="http://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;p&gt;If you can see this in a web browser, it means you have managed to install Nikola,
