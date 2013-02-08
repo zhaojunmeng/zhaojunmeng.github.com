@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Demo Site (nikola)</title><link>http://nikola.ralsina.com.ar</link><description>This is a demo site for Nikola.</description><lastBuildDate>Wed, 30 Jan 2013 10:59:09 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>http://nikola.ralsina.com.ar/posts/welcome-to-nikola.html</link><description>&lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="http://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="http://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;If you can see this in a web browser, it means you have managed to install Nikola,
-and build a site using it. Congratulations!&lt;/p&gt;
-&lt;ul class="simple"&gt;&lt;li&gt;You can read the manual &lt;a class="reference external" href="/stories/handbook.html"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;You can learn more about Nikola at &lt;a class="reference external" href="http://nikola.ralsina.com.ar"&gt;http://nikola.ralsina.com.ar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;You can see a demo photo gallery &lt;a class="reference external" href="/galleries/demo/"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Demo usage of listings &lt;a class="reference external" href="/stories/listings-demo.html"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Demo of slideshows &lt;a class="reference external" href="/stories/slides-demo.html"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:ralsina@netmanagers.com.ar"&gt;ralsina@netmanagers.com.ar&lt;/a&gt;!&lt;/p&gt;</description><guid>http://nikola.ralsina.com.ar/posts/welcome-to-nikola.html</guid><pubDate>Fri, 30 Mar 2012 23:00:00 GMT</pubDate></item></channel></rss>
+<rss version="2.0"><channel><title>孟昭俊的博客 (nikola)</title><link>http://zhaojunmeng.github.com</link><description>我就随便一说</description><lastBuildDate>Sat, 09 Feb 2013 00:37:08 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello 2013</title><link>http://zhaojunmeng.github.com/posts/welcome-to-nikola.html</link><description>&lt;p&gt;&amp;#26032;&amp;#24180;&amp;#26032;&amp;#27668;&amp;#35937;&amp;#65292;&amp;#24320;&amp;#22987;&amp;#33258;&amp;#24049;&amp;#25645;&amp;#32593;&amp;#31449;&amp;#20889;&amp;#21338;&amp;#23458;&amp;#20102;&amp;#12290;&lt;/p&gt;
+&lt;p&gt;&amp;#31069;&amp;#22823;&amp;#23478;&amp;#26032;&amp;#24180;&amp;#24555;&amp;#20048;&amp;#65281;&lt;/p&gt;</description><guid>http://zhaojunmeng.github.com/posts/welcome-to-nikola.html</guid><pubDate>Sat, 09 Feb 2013 23:00:00 GMT</pubDate></item></channel></rss>
