@@ -12,12 +12,12 @@
 * 说明
 * 说明
 
-[![my github](/assets/image/third_party_logo/blacktocat-32.png "my github")](http://www.github.com/zhaojunmeng)
+<a href="http://www.github.com/zhaojunmeng" target="_blank"><img alt="my github" src="../assets/image/third_party_logo/blacktocat-32.png" title="my github"></a>
 
 ## 加菲猫：
 说明
 
-我的淘宝店：[jfpark.taobao.com](http://jfpark.taobao.com)
+我的淘宝店：<a href="http://jfpark.taobao.com" target="_blank">jfpark.taobao.com</a>
 
 ## 关于我们和本站
 说明
