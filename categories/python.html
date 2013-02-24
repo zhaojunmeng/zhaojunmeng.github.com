@@ -44,6 +44,11 @@
     </div>
     
     <div class="span2">
+    <!--Duoshuo Top Comment-->
+    <div>
+    <h5>热门评论</h5>
+    <ul class="ds-top-threads" data-range="monthly" data-num-items="10"></ul></div>
+    <!--End of Duoshuo Top Comment-->
     <!--Duoshuo Recent Comment-->
     <div>
     <h5>最新评论</h5>
@@ -56,6 +61,12 @@
     <div id="qrcodeCanvas"></div>
     </div>
     <!--End of qrcode-->
+    <!--Cloud Tags-->
+    <div id="myCanvasContainer">
+      <h5>标签云：</h5>
+      <canvas width="200" height="200" id="myCanvas"><p>Anything in here will be replaced on browsers that support the canvas element</p>
+      </canvas></div>
+    <!--End of Cloud Tags-->
     </div>
 
     </div> 
@@ -114,4 +125,27 @@ document.getElementById("bdimgshare_shell").src="http://bdimg.share.baidu.com/st
             height: 128,
             text    : window.location.href
         }); 
-    </script><!--End of qrcode--><script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"80%",maxHeight:"80%",scalePhotos:true});</script></body></html>
+    </script><!--End of qrcode--><!-- Cloud Tags--><script src="../assets/js/jquery.tagcanvas.min.js" type="text/javascript"></script><script type="text/javascript">
+      $(document).ready(function() {
+        jQuery.getJSON('/assets/js/tag_cloud_data.json', function(data) {
+            var items = [];
+
+            $.each(data, function(key, val) {
+                items.push('<li><a href="' + val[1] +'" '+'data-weight="'+val[0]+'"'+'>' + key + '</a></li>');
+            });
+
+            $('<div/>', {
+                'id': 'tags',
+                html: '<ul>' + items.join('') + '</ul>'
+            }).appendTo('body');
+            if(!$('#myCanvas').tagcanvas({
+                textColour: null,
+                reverse: true,
+                textHeight: 25,
+                weight: true,
+                weightMode: "both",
+            },'tags')) {
+            // something went wrong, hide the canvas container
+            $('#myCanvasContainer').hide();
+            }});});
+    </script><!-- End of Cloud Tags--><script type="text/javascript">jQuery("a.image-reference").colorbox({rel:"gal",maxWidth:"80%",maxHeight:"80%",scalePhotos:true});</script></body></html>
