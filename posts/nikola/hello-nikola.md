@@ -34,6 +34,9 @@ Nikola在介绍的时候说到了自己Fast，为了这个关键词，我决定�
 PS:为啥没选择Pelican，Pelican在生成页面的时候，使用了make脚本，在Windows上面用make的话，需要MinGW，我这个典型Windows用户就放弃了（虽然我电脑上面有MinGW_(:з」∠)_）。
 
 ## Nikola安装篇
+
+<!-- TEASER_END -->
+
 官方文档中的安装，简单的归纳，实际上就是<a href="http://nikola.ralsina.com.ar/handbook.html#installing-nikola" target="_blank">一句话</a>：
 
 	pip install https://github.com/ralsina/nikola/archive/master.zip
