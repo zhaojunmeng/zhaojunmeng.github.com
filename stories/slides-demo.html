@@ -40,13 +40,24 @@
     
     <h1>Slides Demo</h1>
     <p>Nikola intends to let you do slideshows easily:</p>
-<script> $(function(){ $("#slides").slides({"currentClass": "slide-current", "autoHeight": true, "bigTarget": true, "paginationClass": "pager"}); });</script><div id="slides" class="slides"><div class="slides_container">
-<div><img src="../galleries/demo/tesla_conducts_lg.jpg"></div>
-<div><img src="../galleries/demo/tesla_lightning2_lg.jpg"></div>
-<div><img src="../galleries/demo/tesla4_lg.jpg"></div>
-<div><img src="../galleries/demo/tesla_lightning1_lg.jpg"></div>
-<div><img src="../galleries/demo/tesla_tower1_lg.jpg"></div>
-</div></div>
+
+        <div id="myCarousel" class="carousel slide">
+        <ol class="carousel-indicators"><li data-target="#myCarousel" data-slide-to="0" class="active">
+  </li><li data-target="#myCarousel" data-slide-to="1">
+  </li><li data-target="#myCarousel" data-slide-to="2">
+  </li><li data-target="#myCarousel" data-slide-to="3">
+  </li><li data-target="#myCarousel" data-slide-to="4">
+</li></ol><div class="carousel-inner">
+        
+<div class="item active"><img src="../galleries/demo/tesla_conducts_lg.jpg" alt="" style="margin: 0 auto 0 auto;"></div>
+<div class="item"><img src="../galleries/demo/tesla_lightning2_lg.jpg" alt="" style="margin: 0 auto 0 auto;"></div>
+<div class="item"><img src="../galleries/demo/tesla4_lg.jpg" alt="" style="margin: 0 auto 0 auto;"></div>
+<div class="item"><img src="../galleries/demo/tesla_lightning1_lg.jpg" alt="" style="margin: 0 auto 0 auto;"></div>
+<div class="item"><img src="../galleries/demo/tesla_tower1_lg.jpg" alt="" style="margin: 0 auto 0 auto;"></div>
+</div>
+                        <a class="left carousel-control" href="slides-demo.html#myCarousel" data-slide="prev">‹</a>
+                <a class="right carousel-control" href="slides-demo.html#myCarousel" data-slide="next">›</a>
+                </div>
 
     </div>
     
