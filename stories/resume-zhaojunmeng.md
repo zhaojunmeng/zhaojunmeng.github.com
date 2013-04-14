@@ -55,6 +55,8 @@
 
 + DirectX/OpenGL ES
 
++ SVN/Git（对版本控制/分支有较深刻的理解）
+
 ## <a href="http://www.github.com/zhaojunmeng" target="_blank"><img alt="my github" src="../assets/image/third_party_logo/blacktocat-32.png" title="my github">My GitHub</a>
 
 + <a href="https://github.com/zhaojunmeng/OpenGLSuperBible5ANGLE" target="_blank">OpenGLSuperBible5ANGLE</a>
