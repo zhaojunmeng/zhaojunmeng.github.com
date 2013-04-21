@@ -6,247 +6,227 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://yogurtcat.com</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/2013/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/2013/index.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/archive.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/css/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/css/images/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/css/images/ie6/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/image/</loc>
-  <lastmod>2013-04-01</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/image/cef/</loc>
-  <lastmod>2013-04-01</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/image/third_party_logo/</loc>
-  <lastmod>2013-03-26</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/img/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/assets/js/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/</loc>
-  <lastmod>2013-04-01</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/2013.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/blog.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/bo-ke.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/browser.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/cef.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/chrome.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/github-pages.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/he-tu.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/index.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/nikola.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/osr.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/python.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/static-site.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/webkit.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://yogurtcat.com/edge_animate/</loc>
+  <lastmod>2013-04-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://yogurtcat.com/edge_animate/cat.html</loc>
+  <lastmod>2013-04-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://yogurtcat.com/edge_animate/edge_includes/</loc>
+  <lastmod>2013-04-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://yogurtcat.com/edge_animate/images/</loc>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/galleries/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/galleries/index.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/galleries/jiafeimao2012/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/galleries/jiafeimao2012/index.html</loc>
-  <lastmod>2013-04-14</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/galleries/jiafeimao2013/</loc>
-  <lastmod>2013-04-08</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/galleries/jiafeimao2013/index.html</loc>
-  <lastmod>2013-04-14</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/index.html</loc>
-  <lastmod>2013-04-08</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/listings/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/listings/hello.py.html</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/listings/index.html</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/posts/</loc>
-  <lastmod>2013-03-25</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/posts/cef/</loc>
-  <lastmod>2013-03-25</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/posts/cef/hello-cef.html</loc>
-  <lastmod>2013-04-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/posts/hello-world.html</loc>
-  <lastmod>2013-04-08</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/posts/nikola/</loc>
-  <lastmod>2013-03-25</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/posts/nikola/hello-nikola.html</loc>
-  <lastmod>2013-04-08</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/stories/</loc>
-  <lastmod>2013-04-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/stories/about-authors.html</loc>
-  <lastmod>2013-04-09</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/stories/listings-demo.html</loc>
-  <lastmod>2013-04-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/stories/resume-zhaojunmeng.html</loc>
-  <lastmod>2013-04-14</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://yogurtcat.com/stories/slides-demo.html</loc>
-  <lastmod>2013-04-08</lastmod>
+  <lastmod>2013-04-21</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
