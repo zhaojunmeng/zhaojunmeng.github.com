@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>优格猫 (Chrome)</title><link>http://yogurtcat.com</link><description>下顿吃啥好呢？让我们一起来觅食吧！</description><lastBuildDate>Fri, 26 Apr 2013 09:38:39 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>CEF：给客户端内嵌一个Chrome吧</title><link>http://yogurtcat.com/posts/cef/hello-cef.html</link><description>&lt;html&gt;&lt;body&gt;&lt;h3&gt;CEF是什么&lt;/h3&gt;
+<rss version="2.0"><channel><title>优格猫 (Chrome)</title><link>http://yogurtcat.com</link><description>下顿吃啥好呢？让我们一起来觅食吧！</description><lastBuildDate>Wed, 05 Jun 2013 16:16:24 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>CEF：给客户端内嵌一个Chrome吧</title><link>http://yogurtcat.com/posts/cef/hello-cef.html</link><description>&lt;div&gt;&lt;h3&gt;CEF是什么&lt;/h3&gt;
 &lt;p&gt;CEF是&lt;a href="http://code.google.com/p/chromiumembedded/" target="_blank"&gt;Chromium Embedded Framework&lt;/a&gt;的缩写，是个基于Google Chromium项目的开源Web browser控件，支持Windows, Linux, Max平台。除了提供C/C++接口外，也有其他语言的移植版。&lt;/p&gt;
 &lt;p&gt;因为基于Chromium，所以CEF支持Webkit &amp;amp; Chrome中实现的HTML5的特性，并且在性能上面，也比较接近Chrome。&lt;/p&gt;
 &lt;p&gt;CEF还提供的如下特性：自定义插件、自定义协议、自定义JavaScript对象和扩展；可控制的resource loading, navigation, context menus等等。&lt;/p&gt;
 &lt;h3&gt;谁在用CEF&lt;/h3&gt;
 &lt;p&gt;让我们通过一些实战中的例子，来说明大家都使用CEF做了什么：&lt;/p&gt;
-&lt;p&gt;&lt;a href="/posts/cef/hello-cef.html"&gt;更多...&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</description><guid>http://yogurtcat.com/posts/cef/hello-cef.html</guid><pubDate>Sun, 31 Mar 2013 20:20:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a href="/posts/cef/hello-cef.html"&gt;更多...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>browser</category><category>CEF</category><category>Chrome</category><category>OSR</category><category>Webkit</category><guid>http://yogurtcat.com/posts/cef/hello-cef.html</guid><pubDate>Sun, 31 Mar 2013 20:20:00 GMT</pubDate></item></channel></rss>
