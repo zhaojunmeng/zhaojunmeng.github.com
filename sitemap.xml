@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://yogurtcat.com</loc>
-  <lastmod>2013-04-26</lastmod>
+  <lastmod>2013-06-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -16,12 +16,12 @@
  </url>
  <url>
   <loc>http://yogurtcat.com/2013/index.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/archive.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,72 +31,72 @@
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/2013.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/blog.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/bo-ke.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/browser.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/cef.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/chrome.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/github-pages.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/he-tu.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/index.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/nikola.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/osr.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/python.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/static-site.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/categories/webkit.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -136,7 +136,7 @@
  </url>
  <url>
   <loc>http://yogurtcat.com/index.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -156,37 +156,37 @@
  </url>
  <url>
   <loc>http://yogurtcat.com/posts/cef/hello-cef.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/posts/hello-world.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/posts/nikola/hello-nikola.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/stories/about-authors.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/stories/listings-demo.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/stories/resume-zhaojunmeng.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://yogurtcat.com/stories/slides-demo.html</loc>
-  <lastmod>2013-06-05</lastmod>
+  <lastmod>2013-06-06</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
